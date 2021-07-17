@@ -62,3 +62,6 @@ crashlytics-build.properties
 
 # clone https://github.com/Unity-Technologies/Graphics
 /Graphics/
+
+# JetBrains
+.idea
