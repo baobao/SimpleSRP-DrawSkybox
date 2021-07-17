@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/UserSettings/
+
+# clone https://github.com/Unity-Technologies/Graphics
+/Graphics/
